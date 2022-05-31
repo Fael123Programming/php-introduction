@@ -32,7 +32,7 @@
         echo "<br>";
         echo str_replace("STRING 1", "My first", $string); //old, new, target
         echo "<br>";
-        echo substr("Throughout", 0, 7); //get chars from 0, 7 ones!
+        echo substr("Throughout", 0, 7); //get 7 chars counting from that one at position 0
     ?>
 </body>
 </html>
